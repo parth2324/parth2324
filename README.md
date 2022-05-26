@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parth2324
-- 👀 I’m interested in programming, evidently.
+- 👀 I’m interested in systems.
 - 🌱 I’m currently studying at U of T.
 - 📫 Reach me via parthsingh2324@gmail.com / IN : parthsingh251.
 
